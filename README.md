@@ -1,4 +1,6 @@
 Retrieval-Augmented Generation (RAG) for Indian Legal Applications
+
+
 ![Beige Colorful Minimal Flowchart Infographic Graph (1)](https://github.com/user-attachments/assets/8a3e551b-6ec3-49b7-951c-c487f8246eb6)
 
 Overview
