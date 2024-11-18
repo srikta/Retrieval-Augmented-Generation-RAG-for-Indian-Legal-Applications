@@ -49,6 +49,7 @@ Model: Flan-T5-base (Open Source).
 Purpose: Generates fluent, human-like answers using the retrieved legal context.
 
 Acknowledgments
+
 Hugging Face: For providing open-source models like Flan-T5-base and all-mpnet-base-v2.
 FAISS: For efficient similarity search.
 Indian Law: For the publicly available datasets on Kaggle.
