@@ -43,17 +43,13 @@ Model: Flan-T5-base (Open Source).
 Purpose: Generates fluent, human-like answers using the retrieved legal context.
 Example Query
 Input:
-"What is the process for granting bail under CrPC?"
+text
+Copy code
+What is the process for granting bail under CrPC?
 Output:
-"The process involves filing an application before a magistrate and demonstrating sufficient grounds for bail."
-Future Work
-Expand datasets to include specialized laws (e.g., family law, taxation).
-Fine-tune Flan-T5-base on Indian legal data for improved domain-specific accuracy.
-Add multilingual support for queries in regional Indian languages.
-Deploy the system as a web application using frameworks like Streamlit or Gradio.
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
+text
+Copy code
+The process involves filing an application before a magistrate and demonstrating sufficient grounds for bail.
 Acknowledgments
 Hugging Face: For providing open-source models like Flan-T5-base and all-mpnet-base-v2.
 FAISS: For efficient similarity search.
