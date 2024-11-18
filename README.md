@@ -1,4 +1,5 @@
 Retrieval-Augmented Generation (RAG) for Indian Legal Applications
+
 Overview
 This project implements a Retrieval-Augmented Generation (RAG) pipeline to answer legal questions based on Indian law. By combining semantic retrieval and natural language generation (NLG), the system provides accurate, context-aware responses using datasets from the Indian Constitution, Code of Criminal Procedure (CrPC), and Indian Penal Code (IPC).
 
