@@ -25,7 +25,9 @@ Requirements
 Software
 
 Python 3.8 or higher
+
 Libraries
+
 Transformers: For pre-trained models like Flan-T5-base.
 FAISS-CPU: For efficient similarity search.
 Sentence-Transformers: For embedding generation.
